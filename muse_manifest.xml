@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="pistolkors.com" resolutions="1x" timestamp="1502318302351">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="pistolkors.com" resolutions="1x" timestamp="1502318430807">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="369844967" ref="phone>index"/>
+      <file name="index.css" crc="3921795639" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="76747082" seo="true" mt="1502318280636" redirect="true"/>
+    <file name="index.html" crc="76747082" seo="true" mt="1502318426947" redirect="true"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
