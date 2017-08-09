@@ -1,0 +1,29 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="pistolkors.com" resolutions="1x" timestamp="1502317871682">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3759280450" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="76747082" seo="true" mt="1502317844875" redirect="true"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="311752067" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="81731716" seo="true" mt="1502317746010" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="453856629"/>
+    <file name="index.css" crc="368266240" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:tablet>index:phone>index"/>
+    <file name="museutils.js" crc="275725342" ref="index:tablet>index:phone>index"/>
+    <file name="museredirect.js" crc="3899419633" ref="tablet>index:index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="tablet>index:phone>index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.svg" crc="4156212640" ref="index:tablet>index:phone>index"/>
+    <file name="logo_poster_.png" crc="4200000791" ref="phone>index"/>
+  </folder>
+  <file name="index.html" crc="190273789" seo="true" mt="1502317746054" redirect="true"/>
+</manifest>
